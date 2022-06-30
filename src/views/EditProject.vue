@@ -79,6 +79,7 @@ form button {
   display: block;
   margin: 20px auto 0;
   background: #00ce89;
+  cursor: pointer;
   color: white;
   padding: 10px;
   border: 0;

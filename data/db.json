@@ -2,9 +2,9 @@
   "projects": [
     {
       "id": 1,
-      "title": "Create new homepage poster",
+      "title": "Create new homepage banner",
       "details": "Lorem ipsum",
-      "complete": true
+      "complete": false
     },
     {
       "id": 2,
@@ -15,7 +15,7 @@
     {
       "title": "play soccer at 7",
       "details": "lorem ipsum donor\n",
-      "complete": true,
+      "complete": false,
       "id": 3
     }
   ]
