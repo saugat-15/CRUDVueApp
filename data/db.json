@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage poster",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email password",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "title": "play soccer at 7",
+      "details": "lorem ipsum donor\n",
+      "complete": true,
+      "id": 3
+    }
+  ]
+}
